@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "easywedding-b48f7",
+  "private_key_id": "a50fd8a34e625b12319c285470010d5a7999db42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCx9WYQmzTn8qpd\nuoClIT/Ay1c1/M+BqcYruNIDzXJFt/SaTBQZ/yldLWopar5VV0s4lTrHjXG7fSv7\n4HfN0PRBY9MayOSrHmwZCVPqbbX9RXl18WPXCw1ztkahnRAcLhehh4W/Z3cfZ6VX\nv5u9MbYz1cF203gffjaSj9zY5F7ADAEBEcZV63iatbiz9GrhF/+5ShLYdaDT75Lv\nw/Wvf4CYWJBx8cOMt0ze2ocUPiRKH49/7DXx2dGDq/i6iahZh37auHGoxUm8zIDj\nbTbkeMVWu1A0Y54ETmAwDdgGB6qP9LOcK9JFsL4O+55nFVFViezblZiqO8P6eLbj\niPRUJHxpAgMBAAECggEADUtRtf8gQU0irsiUXHGqzXRrVhJGLq+wCRtgHg5aoWx0\nApRZIpWKIaa3QfOSVzYDna0hRF/TzZ+02dbLoGWiH6HtVviHw6RMy0SD/zT1td9b\nKuVO8fVGipzE80UUW2SSmZuyEUnRj3gq1Q6we95jOAVZk+7JkCG5wjJq202ZKfPD\nXg4BGfdpjFbdZSrK1+h/5T8os021ubyIHqi8RtHqSOLkvul7l7Ccb0pylSJi2IJf\nulza3aWLWEG8o1V8k4B4QEtkfYdCsaXvADWe5Hyj6apa5EkpG59UmTuFcXMlA99v\nvy3vzRaL8TEzKyufXV7Mi4iDVy6+tELLTo8gQRgzgQKBgQD3+EWQcSyIN2hGnPxO\nWXEtyJfTCDeF4TmTGitk2shtMEtyOgGIIQJceUY5JriicLH+UDkwKUQRr6H6jj7N\nIJsX3PJikYgcQdZFs/COjVzGZMce3LWBQK9gnKaPIMCag+JmcnEnqwWbAB59cvy4\nu0NcsebgehB0lc/e/TcjtS5R6QKBgQC3uLenHsQncQbAecW5VyRr+h5W+rm6Uium\ngHh7ury0V66ZUsUxCfSAtnn2xV8uNKJwPQxaUKU6MC5QIddXfNF11YX2x9M8N63P\nTlS/z/eJQMCZpspfoHrIgyRR0aUh3RsB/4dpRj/dWdoLXxpq98XRtY8QrUrGPTN7\n31D+nfvGgQKBgQChsOQ7cXCmSerW0Jq8xBnGztwhIWSDCf+u6guNshOrDyjDDQve\npheSEQo3TgZq9a06tTj1LJNULQAkDwjoXPCEuO/cUiU8t7lurgyYB5mNTD2C5Ev+\nQh2Zk8wP3D17A7BnOQyL3zrCfWtkRcyA8KrWELMJgM6mFuH694Yy5HuVsQKBgQCL\nv6NbKQj2I4CKSlZ/i+y1gbUwXlmGg9iWN2TuYPYHjCbQk+hRTAxDGAqgDjQ/VmQ1\nUgqibHOyVlH0PDmsX9KIeloDhK6GQKgiZ6gJm6zkJ3AZsIiBwvWCrlajMgAVSTWx\nCGk9R+Vuf1lfiwDyWvSLdzqS6e5V6tnNoOngM9X/gQKBgQDxKKo3ttvFKVKKWcfF\nWgE9coWAb/DSY+ZdwGfdCZhMF6gsIX53bWRWvN/Wa3uFccbiS/dTKF9/F5RMHIDW\nDxvFBxGOrh1ZhtB3z7j/gPfRYvgAjLOc0rrb253kbUrTM5+i+iIcnmAOZ364lr5z\nvq5J0uQBKaVTL8MrYBNrMJ5oyw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-judku@easywedding-b48f7.iam.gserviceaccount.com",
+  "client_id": "101359814980730880488",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-judku%40easywedding-b48f7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
